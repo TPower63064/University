@@ -1,6 +1,6 @@
 public class University    //public keyword means class is available to other classes in this program
 {
-    // class variables, private meaning accesible only within teh declared class itself
+    // attributes (variables that each instance is given a set of), private meaning accesible only within the declared class itself
     private int ranking;
     private String name;
     private String country;
